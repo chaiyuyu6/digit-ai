@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="digit-ai">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/digit-ai.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
